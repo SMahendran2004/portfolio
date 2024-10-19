@@ -1,0 +1,44 @@
+.education .title::after {
+    content: "who am i";
+  }
+.education-item {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.education-item {
+    background-color: #fff;
+    padding: 5px;
+    max-width: 900px;
+    margin: 50px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(248, 247, 247, 0.1);
+}
+
+.education-item h2 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.education-item {
+    margin-bottom: 20px;
+}
+
+.education-item h3 {
+    font-size: 24px;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.education-item p {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #555;
+}
+
+.education-item strong {
+    color: #000;
+}
